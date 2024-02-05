@@ -6,3 +6,4 @@ Stock market performance analysis can be used to inform investment decisions and
 
 Below is how we can collect real-time stock market data using the yfinance API:
 
+![yfinance](resources/yfinance.png)
